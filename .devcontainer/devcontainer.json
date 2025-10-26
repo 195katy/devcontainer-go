@@ -17,7 +17,7 @@
     }
   },
 
-  "postCreateCommand": "go version",
+  "postCreateCommand": "go version && git config --global --add safe.directory /workspace",
 
   "remoteUser": "vscode"
 }
