@@ -70,9 +70,8 @@ go test -cover ./...
 
 このDev Containerには以下のツールがプリインストールされています:
 
-- Go (最新版)
+- Go 1.23
 - Git
-- Node.js & npm
 - 各種Goユーティリティ
 
 ## プロジェクト構造
